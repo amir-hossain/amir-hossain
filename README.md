@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amie Hossain</h1>
+<h1 align="center">Hi 👋, I'm Amir Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on [BongoBd](Bongo and Bioscope)
