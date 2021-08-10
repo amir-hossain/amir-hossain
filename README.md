@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amir Hossain</h1>
-<h3 align="center">A passionate android developer from Bangladesh</h3>
+<h3 align="center">A passionate Android developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [BongoBd](Bongo and Bioscope)
+- 🔭 I’m currently working on BongoBd and contributing in "Bongo" and "Bioscope" project
 
 - 📫 How to reach me **mramir1971@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amir-hossain-aiub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amir-hossain-aiub/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amir-hossain-aiub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amir-hossain-aiub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
