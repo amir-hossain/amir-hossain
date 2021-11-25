@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Hossain</h1>
-<h3 align="center">A passionate Android developer from Bangladesh</h3>
+<h3 align="center">A passionate Moble App developer from Bangladesh</h3>
 
 - 🔭 I’m currently working on **BongoBd** and contributing in **Bongo** and **Bioscope** project
 
